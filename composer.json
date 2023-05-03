@@ -1,6 +1,6 @@
 {
   "name": "andresmeireles/php-jwk",
-  "description": "A small PHP library to handle JWKs (Json Web Keys)",
+  "description": "A test lib (WILL BE REMOVED)",
   "type": "library",
   "keywords": ["jwk", "jwks"],
   "homepage": "https://github.com/Strobotti/php-jwk",
